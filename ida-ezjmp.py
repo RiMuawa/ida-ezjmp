@@ -1,4 +1,3 @@
-# jumper.py - IDA 9.0 兼容修复版（新增按函数名跳转）
 import idaapi
 import idc
 import threading
